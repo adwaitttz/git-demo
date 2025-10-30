@@ -1,0 +1,11 @@
+git init -                      initalze git
+git restore [file_name] -       restore file
+git status -                    checks status
+git add [file_name] -           adds file to staged state
+git commit -m"[message]" -      file tracked
+
+git remote add origin
+git remote -v
+git remote set-url origin
+git remote -v
+git push origin mastergit
